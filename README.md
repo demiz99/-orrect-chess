@@ -20,4 +20,4 @@ HTML, CSS, SCSS
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages]([https://demiz99.github.io/russian-travel/](http://127.0.0.1:5500/index.html#samples))
+* [Ссылка на GitHub Pages](https://randomu3.github.io/Delicious-lemonades/)
